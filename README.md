@@ -17,5 +17,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="[blob:https://zskpoznan-my.sharepoint.com/7be36de7-247a-4980-88e2-2484bda8a010](https://github.com/xiega/xiega/blob/main/stack-hills.png?raw=true)https://github.com/xiega/xiega/blob/main/stack-hills.png?raw=true" alt="stacks"/>
+<img src="https://raw.githubusercontent.com/xiega/xiega/main/stack-hills.png" alt="stacks"/>
 </h3>
